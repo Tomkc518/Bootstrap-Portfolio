@@ -51,3 +51,25 @@ hr {
 .navCard {
     margin-bottom: 100px;
 }
+
+button[type=submit] {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+button[type=submit]:hover,
+.contactButton:hover,
+.portfolioLinks:hover {
+    box-shadow: 5px 5px 5px grey;
+}
+
+.imageText {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    width: 100%;
+    
+}
