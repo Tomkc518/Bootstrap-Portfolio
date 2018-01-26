@@ -1,0 +1,53 @@
+body {
+    background-image: url("../images/vintage-concrete.png");
+    background-color: #ffffff;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.headerRow {
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+}
+
+.headerName {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.headerNameText {
+    font-weight: 600;
+}
+
+.headerLinks {
+    border-right: 2px solid #e7e2e2;
+}
+
+.headerLinks:last-child {
+    border: none;
+}
+
+hr {
+    border-width: 3px;
+}
+
+.cardHeader {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 80px;
+}
+
+.footerText {
+    color: #ffffff;
+}
+
+.navCard {
+    margin-bottom: 100px;
+}
