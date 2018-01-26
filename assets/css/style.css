@@ -20,11 +20,11 @@ body {
     font-weight: 600;
 }
 
-.headerLinks {
+.headerLinks li {
     border-right: 2px solid #e7e2e2;
 }
 
-.headerLinks:last-child {
+.headerLinks li:last-child {
     border: none;
 }
 
